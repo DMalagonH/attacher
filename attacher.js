@@ -2,6 +2,7 @@
  * Plugin para carga de archivos directamente al servidor
  * 
  * Dependencias: jQuery, underscore, jQuery Form Plugin
+ * Date: 2016-09-22
  * 
  * @author Diego Malagón <diegomalagonh@gmail.com>
  * @param {type} $ jQuery

@@ -3,7 +3,7 @@
  * 
  * Dependencias: jQuery, underscore, jQuery Form Plugin
  * 
- * @author Diego Malagón <diego@altactic.com>
+ * @author Diego Malagón <diegomalagonh@gmail.com>
  * @param {type} $ jQuery
  * @param {type} _ underscore
  * @returns {undefined}
